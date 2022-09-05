@@ -1,5 +1,5 @@
 # 𝐒𝐢𝐦𝐩𝐥𝐞 𝐓𝐨𝐝𝐨 𝐋𝐢𝐬𝐭 𝐀𝐩𝐩 🚀
-
+ 
 <br/>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/76626529/184528937-0423b5c8-4d39-4400-abeb-e61081f77a31.png">
